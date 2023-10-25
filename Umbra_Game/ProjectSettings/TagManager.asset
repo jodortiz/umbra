@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Game Start
+  - Light Hit
+  - Tree
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - Trees
+  - Grass
+  - Lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 673117459
+    locked: 0
+  - name: Background Particles
+    uniqueID: 2312536477
+    locked: 0
+  - name: Platform
+    uniqueID: 2412026639
+    locked: 0
+  - name: Trees
+    uniqueID: 3169182257
+    locked: 0
+  - name: Grass
+    uniqueID: 1061149481
+    locked: 0
+  - name: Player
+    uniqueID: 3442357357
+    locked: 0
+  - name: Lights
+    uniqueID: 2293043529
+    locked: 0
+  - name: UI
+    uniqueID: 3690837195
+    locked: 0
